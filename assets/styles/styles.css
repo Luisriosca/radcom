@@ -1,0 +1,11 @@
+body{
+    background-image: url("/assets/img/contornos.png");
+}
+
+.wrapper{
+    background-color: #212529f1;
+}
+
+.carousel{
+    width: 950px;
+}
